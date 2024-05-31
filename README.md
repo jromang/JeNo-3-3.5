@@ -37,3 +37,4 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 
 | | Poids unitaire (g) | nombre | Poids total (g) | Prix (€) | Prix unitaire | Remarque |
 |-|--------------------|--------|-----------------|----------|---------------|----------|
+|Chassis 3 ‘’ | 56,0 | 1 | 56,0 | 53 | 53 | T700 https://fpvcncdrone.com/product/jeno-3-unibody/
