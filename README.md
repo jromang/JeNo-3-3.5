@@ -35,3 +35,5 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 
 # Liste de courses J
 
+| | Poids unitaire (g) | nombre | Poids total (g) | Prix (€) | Prix unitaire | Remarque |
+|-|--------------------|--------|-----------------|----------|---------------|----------|
