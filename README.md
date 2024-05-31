@@ -39,7 +39,7 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 |-|--------------------|--------|-----------------|----------|---------------|----------|
 |Chassis 3 ‘’ | 56,0 | 1 | 56,0 | 53 | 53 | [FVP CNC Drone T700](https://fpvcncdrone.com/product/jeno-3-unibody/)
 |Stack | 14,4 |1| 14,4 |55,66| 55,66| [SpeedyBee F405 Mini 20x20](https://www.speedybee.com/speedybee-f405-mini-bls-35a-20x20-stack/)
-|Moteur Skystars | 8,8| 4 |35,2 |43,84| 43,84 |[Skystars Koto 1404 3800KV 3-4S](https://fr.aliexpress.com/item/1005002967385400.html)
+|Moteur  | 8,8| 4 |35,2 |43,84| 43,84 |[ FlyFishRC Flash 1404 4500 KV ]([https://fr.aliexpress.com/item/1005002967385400.html](https://www.flyfish-rc.com/products/flash-1404-4500kv-fpv-motor))
 |Récepteur | 0,73 |1 |0,73 | 9.22 |9.22 | [BETAFPV ELRS Nano Receiver](https://betafpv.com/products/elrs-nano-receiver)
 |Antenne récepteur | 1,5| 1| 1,5| 6.45 | 6.45 | [BETAFPV Dipole T Antenna](https://betafpv.com/products/betafpv-t-antenna-for-receiver?variant=39417052201094)
 |Gps | 2.2 |1| 2.2 | 17.56| 17.56| [GOKU Nano V3 Flywoo](https://flywoo.net/products/goku-gm10-nano-v3-gps)
