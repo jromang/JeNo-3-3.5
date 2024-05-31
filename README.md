@@ -37,7 +37,7 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 
 | | Poids unitaire (g) | nombre | Poids total (g) | Prix (€) | Prix unitaire | Remarque |
 |-|--------------------|--------|-----------------|----------|---------------|----------|
-|Chassis 3 ‘’ | 56,0 | 1 | 56,0 | 53 | 53 | T700 https://fpvcncdrone.com/product/jeno-3-unibody/
-|Stack | 14,4 |1| 14,4 |55,66| 55,66| SpeedyBee F405 Mini 20x20 https://www.speedybee.com/speedybee-f405-mini-bls-35a-20x20-stack/
-|Moteur Skystars | 8,8| 4 |35,2 |43,84| 43,84 |Skystars Koto 1404 3800KV 3-4S
-|Récepteur | 0,7 |1 |0,73 | 9.22 |9.22 | BETAFPV ELRS Nano Receiver
+|Chassis 3 ‘’ | 56,0 | 1 | 56,0 | 53 | 53 | [FVP CNC Drone T700](https://fpvcncdrone.com/product/jeno-3-unibody/)
+|Stack | 14,4 |1| 14,4 |55,66| 55,66| [SpeedyBee F405 Mini 20x20](https://www.speedybee.com/speedybee-f405-mini-bls-35a-20x20-stack/)
+|Moteur Skystars | 8,8| 4 |35,2 |43,84| 43,84 |[Skystars Koto 1404 3800KV 3-4S](https://fr.aliexpress.com/item/1005002967385400.html)
+|Récepteur | 0,7 |1 |0,73 | 9.22 |9.22 | [BETAFPV ELRS Nano Receiver}(https://betafpv.com/products/elrs-nano-receiver)
