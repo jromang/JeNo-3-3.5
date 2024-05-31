@@ -41,4 +41,4 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 |Stack | 14,4 |1| 14,4 |55,66| 55,66| [SpeedyBee F405 Mini 20x20](https://www.speedybee.com/speedybee-f405-mini-bls-35a-20x20-stack/)
 |Moteur Skystars | 8,8| 4 |35,2 |43,84| 43,84 |[Skystars Koto 1404 3800KV 3-4S](https://fr.aliexpress.com/item/1005002967385400.html)
 |Récepteur | 0,73 |1 |0,73 | 9.22 |9.22 | [BETAFPV ELRS Nano Receiver](https://betafpv.com/products/elrs-nano-receiver)
-|Antenne récepteur | 1,5| 1| 1,5| | | [BETAFPV Dipole T Antenna](https://betafpv.com/products/betafpv-t-antenna-for-receiver?variant=39417052201094)
+|Antenne récepteur | 1,5| 1| 1,5| 6.45 | 6.45 | [BETAFPV Dipole T Antenna](https://betafpv.com/products/betafpv-t-antenna-for-receiver?variant=39417052201094)
