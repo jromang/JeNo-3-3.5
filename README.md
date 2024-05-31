@@ -47,3 +47,4 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 |Buzzer | 4,00 |1 |4,00 |5,38 |5,38
 |Accu 450mAh | 53,0 |1| 53,0| 8,63| 8,63| [Ovonic 14,8V 80C 4S](https://www.ovonicshop.com/products/ovonic-450mah-4s-14-8v-80c-xt30-lipo-battery-pack-for-whoops-4pcs?_pos=22&_sid=48da7c707&_ss=r&variant=39293788028997)
 |Camera / VTX| 36.4 | 1 | 36.4 | 249 | 249 | [DJI O3 Air Unit](https://www.dji.com/fr/o3-air-unit)
+|*Total*|  | | *209.43* | *450.74* | 
