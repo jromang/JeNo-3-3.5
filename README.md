@@ -43,3 +43,4 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 |Récepteur | 0,73 |1 |0,73 | 9.22 |9.22 | [BETAFPV ELRS Nano Receiver](https://betafpv.com/products/elrs-nano-receiver)
 |Antenne récepteur | 1,5| 1| 1,5| 6.45 | 6.45 | [BETAFPV Dipole T Antenna](https://betafpv.com/products/betafpv-t-antenna-for-receiver?variant=39417052201094)
 |Gps | 2.2 |1| 2.2 | 17.56| 17.56| [GOKU Nano V3 Flywoo](https://flywoo.net/products/goku-gm10-nano-v3-gps)
+|Hélice | 1,50 |4 |6,00| 2,00| 2,00 |HQProp Durable T3x3x3
