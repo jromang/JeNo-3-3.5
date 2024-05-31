@@ -44,3 +44,5 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 |Antenne récepteur | 1,5| 1| 1,5| 6.45 | 6.45 | [BETAFPV Dipole T Antenna](https://betafpv.com/products/betafpv-t-antenna-for-receiver?variant=39417052201094)
 |Gps | 2.2 |1| 2.2 | 17.56| 17.56| [GOKU Nano V3 Flywoo](https://flywoo.net/products/goku-gm10-nano-v3-gps)
 |Hélice | 1,50 |4 |6,00| 2,00| 2,00 |HQProp Durable T3x3x3
+|Buzzer | 4,00 |1 |4,00 |5,38 |5,38
+|Accu 450mAh | 53,0 |1| 53,0| 8,63| 8,63| [Ovonic 14,8V 80C 4S](https://www.ovonicshop.com/products/ovonic-450mah-4s-14-8v-80c-xt30-lipo-battery-pack-for-whoops-4pcs?_pos=22&_sid=48da7c707&_ss=r&variant=39293788028997)
