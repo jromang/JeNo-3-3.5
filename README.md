@@ -2,6 +2,8 @@
 
 Ce repository contient les notes, liens, et fichiers nécessaires à la construction d'un drone JeNo 3 pouces.
 
+<!-- a normal html comment 
+
 # Liste de courses D
 
 | | Poids unitaire (g) | nombre | Poids total (g) | Prix (€) | Prix unitaire | Remarque |
@@ -33,7 +35,9 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 |total HD pro dual| 0,0
 |Total config FPV| 196,7 |381,82
 
-# Liste de courses J
+-->
+
+# Liste de courses
 
 | | Poids unitaire (g) | nombre | Poids total (g) | Prix (€) | Prix unitaire | Remarque |
 |-|--------------------|--------|-----------------|----------|---------------|----------|
