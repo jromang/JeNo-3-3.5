@@ -49,7 +49,7 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 |Hélice | 1,50 |4 |6,00| 2,00| 2,00 |HQProp Durable T3x3x3
 |Buzzer | 4,00 |1 |4,00 |8.25 |8.25 | [FLYWOO Finder V1.0 w/ LED BUZZER](https://flywoo.net/products/flywoo-finder-v1-0-w-led-buzzer)
 |Accu 450mAh | 53,0 |1| 53,0| 15| 15| [Explorer 4S 750mAh HV 80C Lipo Battery - XT30](https://flywoo.net/products/2pcs-explorer-750mah-hv-15-2v-80c-4s1p-lipo-battery-pack-xt30)
-|Camera / VTX| 36.4 | 1 | 36.4 | 249 | 249 | [DJI O3 Air Unit](https://www.dji.com/fr/o3-air-unit)
-|**Total**|  | | **209.43** | **450.74** | 
+|Camera / VTX| 36.4 | 1 | 36.4 | 220 | 249 | [DJI O3 Air Unit](https://www.dji.com/fr/o3-air-unit)
+|**Total**|  | | **209.43** | **444.91** | 
 
 
