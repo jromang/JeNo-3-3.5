@@ -42,14 +42,14 @@ Ce repository contient les notes, liens, et fichiers nécessaires à la construc
 | | Poids unitaire (g) | nombre | Poids total (g) | Prix (€) | Prix unitaire | Remarque |
 |-|--------------------|--------|-----------------|----------|---------------|----------|
 |Chassis 3 ‘’ | 56,0 | 1 | 56,0 | 53 | 53 | [FVP CNC Drone T700](https://fpvcncdrone.com/product/jeno-3-unibody/)
-|Stack | 14,4 |1| 14,4 |55,66| 69.74| [GOKU F722 Pro Mini V2 45A 32Bit 128K 20X20 Stack](https://flywoo.net/products/goku-f722-mini-v2-40a-bls-20x20-stack)
+|Stack | 14,4 |1| 14,4 |69.74| 69.74| [GOKU F722 Pro Mini V2 45A 32Bit 128K 20X20 Stack](https://flywoo.net/products/goku-f722-mini-v2-40a-bls-20x20-stack)
 |Moteur  | 8,8| 4 |35,2 |43,84| 43,84 |[ FlyFishRC Flash 1404 4500 KV ](https://www.flyfish-rc.com/products/flash-1404-4500kv-fpv-motor)
-|Récepteur | 0,73 |1 |0,73 | 9.22 |15.52 | [0.4g Flywoo TCXO 2.4G ELRS EL24E \ EL24P](https://flywoo.net/products/0.4g-flywoo-tcxo-2.4g-elrs-el24e-el24p)
+|Récepteur | 0,73 |1 |0,73 | 15.52 |15.52 | [0.4g Flywoo TCXO 2.4G ELRS EL24E \ EL24P](https://flywoo.net/products/0.4g-flywoo-tcxo-2.4g-elrs-el24e-el24p)
 |Gps | 2.2 |1| 2.2 | 17.56| 17.56| [GOKU Nano V3 Flywoo](https://flywoo.net/products/goku-gm10-nano-v3-gps)
 |Hélice | 1,50 |4 |6,00| 2,00| 2,00 |HQProp Durable T3x3x3
-|Buzzer | 4,00 |1 |4,00 |5,38 |8.25 | [FLYWOO Finder V1.0 w/ LED BUZZER](https://flywoo.net/products/flywoo-finder-v1-0-w-led-buzzer)
-|Accu 450mAh | 53,0 |1| 53,0| 8,63| 8,63| [Explorer 4S 750mAh HV 80C Lipo Battery - XT30](https://flywoo.net/products/2pcs-explorer-750mah-hv-15-2v-80c-4s1p-lipo-battery-pack-xt30)
+|Buzzer | 4,00 |1 |4,00 |8.25 |8.25 | [FLYWOO Finder V1.0 w/ LED BUZZER](https://flywoo.net/products/flywoo-finder-v1-0-w-led-buzzer)
+|Accu 450mAh | 53,0 |1| 53,0| 15| 15| [Explorer 4S 750mAh HV 80C Lipo Battery - XT30](https://flywoo.net/products/2pcs-explorer-750mah-hv-15-2v-80c-4s1p-lipo-battery-pack-xt30)
 |Camera / VTX| 36.4 | 1 | 36.4 | 249 | 249 | [DJI O3 Air Unit](https://www.dji.com/fr/o3-air-unit)
 |**Total**|  | | **209.43** | **450.74** | 
 
-Vis : https://fr.aliexpress.com/item/4000373283188.html
+
